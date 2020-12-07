@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  margin: 0;
+  padding: 0;
+  width: 375px;
+  height: 667px;
+  background-color: rgb(18, 7, 119);
+}
+
+.header p {
+  margin: 0;
+  padding: 180px 20px 0px 20px;
+  line-height: 50px;
+  font-size: 40px;
+  text-align: end;
+  font-family: 'Nerko One', cursive;
+  color: aliceblue;
+}
+
+.phanThan {
+  margin: 0;
+  padding: 0;
+  width: 375px;
+  height: 667px;
+  background-color: rgb(30, 16, 158);
+}
+
+.phanThan p {
+  margin: 0;
+  padding: 160px 20px 0px 20px;
+  line-height: 50px;
+  font-size: 40px;
+  text-align: center;
+  font-family: 'Nerko One', cursive;
+  color: aliceblue;
+}
+
+.phanThan2 {
+  margin: 0;
+  padding: 0;
+  width: 375px;
+  height: 667px;
+  background-color: rgb(36, 19, 189);
+}
+
+.phanThan2 p {
+  margin: 0;
+  padding: 250px 20px 0px 20px;
+  line-height: 50px;
+  font-size: 40px;
+  text-align: center;
+  font-family: 'Nerko One', cursive;
+  color: aliceblue;
+}
+
+.phanThan3 {
+  margin: 0;
+  padding: 0;
+  width: 375px;
+  height: 667px;
+  background-color: rgb(42, 23, 218);
+}
+
+.phanThan3 p {
+  margin: 0;
+  padding: 250px 20px 0px 20px;
+  line-height: 50px;
+  font-size: 40px;
+  text-align: center;
+  font-family: 'Nerko One', cursive;
+  color: aliceblue;
+}
+
+.phanThan4 {
+  margin: 0;
+  padding: 0;
+  width: 375px;
+  height: 667px;
+  background-color: rgb(108, 92, 255);
+}
+
+.phanThan4 .ct1 {
+  margin: 0;
+  padding: 150px 20px 0px 20px;
+  line-height: 50px;
+  font-size: 40px;
+  text-align: center;
+  font-family: 'Nerko One', cursive;
+  color: aliceblue;
+}
+
+.phanThan4 .ct1 {
+  margin: 0;
+  padding: 0px 20px 0px 20px;
+  line-height: 50px;
+  font-size: 40px;
+  text-align: center;
+  font-family: 'Nerko One', cursive;
+  color: aliceblue;
+}
+
+.phanThan4 .ct2 {
+  margin: 0;
+  padding: 10px 20px 0px 20px;
+  line-height: 50px;
+  font-size: 40px;
+  text-align: center;
+  font-family: 'Nerko One', cursive;
+  color: aliceblue;
+  background-color: darkkhaki;
+}
+
+.footer {
+  width: 375px;
+  height: 480px;
+  background-image: url(giphy.webp);
+}
+
+.footer p {
+  margin: 0;
+  font-family: 'Nerko One', cursive;
+  font-size: 30px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+button {
+  border: none;
+  border-radius: 20px;
+  padding: 10px;
+  margin-left: 150px;
+}
